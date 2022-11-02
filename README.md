@@ -1,4 +1,4 @@
-<p><img align="center" alt="gif" src="https://github.com/bautista-calvo/bautista-calvo/blob/main/gifparagithub.gif" width="800" height="400" /></p>
+<p><img align="center" alt="gif" src="https://github.com/bautista-calvo/bautista-calvo/blob/main/gifparagithub.gif" width="1000" height="400" /></p>
 
 
 ```javascript
