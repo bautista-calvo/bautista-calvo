@@ -1,6 +1,7 @@
 <p><img align="center" alt="gif" src="https://github.com/bautista-calvo/bautista-calvo/blob/main/gifparagithub.gif" width="1000" height="600" /></p>
 
-
+#Hi, Im Bautista Calvo 😄😄
+##You can contact me on baupincha31@gmail.com
 ```javascript
 const Bautista = (Calvo) {
   code: [Javascript, C, HTML, CSS],
