@@ -1,4 +1,4 @@
-(img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AppropriateFatKagu-max-1mb.gif")
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AppropriateFatKagu-max-1mb.gif">
 <h1 align="center">Hi 👋, I'm Bautista Calvo</h1>
 <h3 align="center">A front end developer from Argentina!</h3>
 
