@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at **baupincha31@gmail.com**
 
-- ⚡ Fun fact **It's my first year programming**
+- ⚡ Fun fact **It's my second year programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
